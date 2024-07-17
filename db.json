@@ -20,6 +20,18 @@
     {
       "id": 5,
       "name": "Mohamed Sayed"
+    },
+     {
+      "id": 6,
+      "name": "Omar Sayed"
+    },
+    {
+      "id": 7,
+      "name": "Go Mars"
+    },
+    {
+      "id": 8,
+      "name": "Michel"
     }
   ],
   "transactions": [
@@ -166,6 +178,62 @@
       "customer_id": 2,
       "date": "2022-03-7",
       "amount": 4300
+    },
+     {
+      "id": 25,
+      "customer_id": 6,
+      "date": "2022-03-7",
+      "amount": 4300
+    },
+    {
+      "id": 26,
+      "customer_id": 6,
+      "date": "2022-03-11",
+      "amount": 850
+    },
+    {
+      "id": 27,
+      "customer_id": 6,
+      "date": "2022-03-25",
+      "amount": 1700
+    },
+    {
+      "id": 28,
+      "customer_id": 7,
+      "date": "2022-03-7",
+      "amount": 4300
+    },
+    {
+      "id": 29,
+      "customer_id": 7,
+      "date": "2022-04-7",
+      "amount": 3200
+    },
+    {
+      "id": 30,
+      "customer_id": 7,
+      "date": "2022-05-1",
+      "amount": 1200
+    },
+       {
+      "id": 31,
+      "customer_id": 8,
+      "date": "2022-05-1",
+      "amount": 1200
+    },
+       {
+      "id": 32,
+      "customer_id": 8,
+      "date": "2022-05-25",
+      "amount": 3000
+    },
+       {
+      "id": 32,
+      "customer_id": 8,
+      "date": "2022-07-1",
+      "amount": 760
     }
+    
+    
   ]
 }
